@@ -17,7 +17,7 @@ It supports basic arithmetic operations: **addition, subtraction, multiplication
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/RynVarkh/Simple-Calculator.git
    cd calculator
  ```
  2. Run the program:
