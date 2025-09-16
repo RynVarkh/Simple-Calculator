@@ -21,5 +21,5 @@ It supports basic arithmetic operations: **addition, subtraction, multiplication
    cd calculator
  
  2. Run the program:
-```bash
+   ```bash
   python3 calculator.py
