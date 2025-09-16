@@ -22,4 +22,4 @@ It supports basic arithmetic operations: **addition, subtraction, multiplication
  
  2. Run the program:
    ```bash
-  python3 calculator.py
+   python3 calculator.py
