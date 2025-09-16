@@ -16,10 +16,11 @@ It supports basic arithmetic operations: **addition, subtraction, multiplication
 ## 🚀 How to Run
 
 1. Clone this repository:
-   ```bash
+```bash
    git clone https://github.com/your-username/calculator.git
    cd calculator
- 
+ ```
  2. Run the program:
-   ```bash
+```bash
    python3 calculator.py
+```
